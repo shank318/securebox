@@ -6,10 +6,10 @@ Whenever a client sends a message to server it will first do a handshake to exch
 ### Run
 
 Start the server:
-```./main -option="server```
+```./main -option="server"```
 
 Start the client:
-```./main -option="client```
+```./main -option="client"```
 
 Enter the message in the shell and the server will reply back the same message
 
